@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Gosling</string>
+    <string name="name">James_Gosling</string>
+    <string name="name2">Ada_Lovelace</string>
     <string name="info">
             \tJames Gosling received a Bachelor of Science from the University of Calgary and his M.A. and Ph.D. from Carnegie Mellon University.
         He wrote a version of Emacs called Gosling Emacs (Gosmacs) while working toward his doctorate.
@@ -57,4 +59,5 @@
 
        \t She died of uterine cancer in 1852 at the age of 36.\n\n
     </string>
+
 </resources>

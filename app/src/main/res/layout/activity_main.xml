@@ -19,7 +19,7 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="20dp"
             android:gravity="center_vertical|center_horizontal"
-            android:text="James_Gosling"
+            android:text="@string/name"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
